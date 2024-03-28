@@ -1,7 +1,7 @@
 {
   "name": "productdetails",
   "version": "1.0.0",
-  "description": "",
+  "description": "Raisal",
   "main": "index.js",
   "type": "module",
   "scripts": {
